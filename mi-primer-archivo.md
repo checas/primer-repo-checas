@@ -1,9 +1,10 @@
-Arquímedes
-Leonardo da Vinci
-Copérnico
-Newton
-Pasteur
-Tesla
-Marie Curie
-Einstein
-Stephen Hawking
+Python
+Java
+JavaScript
+C#
+PHP
+C++
+Basic
+Pascal
+Swift
+TypeScript
